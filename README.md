@@ -227,6 +227,6 @@ Possible improvements include:
 
 **Course:** CSE1021 — Introduction to Problem Solving and Programming
 
-**Faculty:** Professor R Senthilkumar
+**Faculty:** Professor R.Senthilkumar
 
 **Designation:** Senior Associate Professor
